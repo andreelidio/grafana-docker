@@ -1,4 +1,4 @@
-<h1>Instalando prometheus no docker</h1>
+<h1>Configurando o prometheus no docker.</h1>
 
 + Prometheus é um aplicativo de software livre usado para monitoramento de eventos e alertas. Ele registra métricas em tempo real em um banco de dados de séries temporais construído usando um modelo HTTP pull, com consultas flexíveis e alertas em tempo real.
 + Utilizei as imagens do mongodb, mongo-exporter, prometheus e kubedevio/pedelogo-catalogo:v1.0.0
