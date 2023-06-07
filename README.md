@@ -21,5 +21,8 @@ https://grafana.com/
  <h1>Console do Grafana.</h1>
  
  ![image](https://github.com/andreelidio/grafana-docker/assets/97263573/d22c67ef-b6da-424c-904b-9803d8034d6f)
+ 
+ ![image](https://github.com/andreelidio/grafana-docker/assets/97263573/3d26c729-1ee1-43b9-825d-fda193871fb0)
+
 
  
